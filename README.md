@@ -16,8 +16,9 @@ The Amazon Clone project is a web application that replicates the core functiona
 
 - **Front-End**: React.js for building interactive user interfaces.
 - **Back-End**: Node.js and Express for handling server-side logic and API requests.
-- **Database**: MongoDB for storing user and product data.
+- **Database**: Firebase for storing user and product data.
 - **Styling**: CSS for custom styling and layout.
+- **Stripe**: Stripe API is used to handle payment processing, ensuring secure transactions.
 
 ## Available Scripts
 
