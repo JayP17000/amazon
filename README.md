@@ -1,3 +1,24 @@
+# Amazon Clone
+
+## Overview
+
+The Amazon Clone project is a web application that replicates the core functionalities of the popular e-commerce platform, Amazon. Built using modern web technologies, this project demonstrates a comprehensive full-stack application encompassing product listings, user authentication, shopping cart management, and order processing.
+
+### Key Features
+
+- **User Authentication**: Allows users to create accounts, log in, and manage their profiles.
+- **Product Listings**: Displays a wide range of products with details such as name, price, and description, fetched from a mock API.
+- **Shopping Cart**: Users can add products to their cart, view cart contents, and proceed to checkout.
+- **Order Processing**: Simulates the order placement process, including order summary and confirmation.
+- **Responsive Design**: Designed to provide an optimal viewing experience across different devices.
+
+## Technologies Used
+
+- **Front-End**: React.js for building interactive user interfaces.
+- **Back-End**: Node.js and Express for handling server-side logic and API requests.
+- **Database**: MongoDB for storing user and product data.
+- **Styling**: CSS for custom styling and layout.
+
 ## Available Scripts
 
 In the project directory, you can run:
